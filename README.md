@@ -55,4 +55,3 @@ The goal is to perform **exploratory data analysis (EDA)** with SQL to uncover i
 ## 👨‍💻 Author
 -- Mairaj Fatima
 
-Created with ❤️ by [Your Name]
